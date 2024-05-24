@@ -1,7 +1,6 @@
 # [Global: HTML5 website template]
 
-### [Featured on Freebiesbug](http://freebiesbug.com/psd-freebies/global-futuristic-one-page-portfolio-psd-html/)
-
+### [Featured on Freebiesbug]
 Global is a modern and sleek website template crafted for professionals in the creative industry. Global can serve as a single page portfolio or be easily modified to serve as the perfect beginning for a hip creative agency.
 
 
